@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OR+CONFEDERATED+TRIBES+OF+SILETZ+INDIANS+OF",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OR+CONFEDERATED+TRIBES+OF+SILETZ+INDIANS+OF",
+  "title": "Federal Register - OR CONFEDERATED TRIBES OF SILETZ INDIANS OF",
+  "fetched_at": "2026-11-23T17:46:36.798835Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 329613,
+  "sha256": "1b3e64cb11e41fbe7f0ede68c1e7dfaff2cbe090a12b42b49abae16106f3ab6e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
